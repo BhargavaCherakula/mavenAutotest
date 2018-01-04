@@ -1,0 +1,2 @@
+# mavenAutotest
+MavenSutotest
